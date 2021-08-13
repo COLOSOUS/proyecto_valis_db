@@ -1,0 +1,23 @@
+input para agregar el servidor
+input para cargar la base de datos
+para cargar el puerto
+input para agregar el usuario
+input para agregar la clave
+
+boton (guarde la variable)crear funcionalidad para recuperar credenciales
+------------------------------------------------------------------------------
+ejecutar el SQL con ese resultado
+
+motrar en pantalla resultados del sql(fragmentacion)
+
+boton ejecutar machine learning
+-------------------------------------------------------------------------
+mostrar resultados del machine learning(tipo reporte+guardar logs)
+
+botones para confirmar accion sugerida(aplica(o no) sql corrector[rebuild,reorganize])  
+
+----------------------------------
+
+
+
+FINALIZADO PASARLO A PHP(formato web)
