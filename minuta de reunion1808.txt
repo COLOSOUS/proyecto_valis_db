@@ -1,0 +1,10 @@
+formato nueva ventana
+
+nombre_tabla | nombre_indice | porcentaje_fragmentacion(redondear) | script_a_ejecutar
+
+
+-boton ejecucion manual
+-boton ejecucion automatica
+
+
+
