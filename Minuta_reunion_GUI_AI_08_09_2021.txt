@@ -1,0 +1,20 @@
+-Indicar cuando el indice no cambio del porcentaje de fragmentacion, 50->50
+
+  ->Realizar revision manual en la base de datos cuando el indice no haya cambiado; (el indice es una llave primaria pro lo que no puede modificar su fragmentracion o el indice esta siendo usado) 
+
+-Revisar datos duplicados en la pagina dos
+
+-Marcar los indice en 0 como no usados
+
+-Achicar el texto de la ventana para que quede en una sola fila la tabla o el script del indice que diga rebuild o el reorganize
+en una sola fila
+
+-Y el boton de rebuild(violeta) y el reorganize(verde claro)[colores pasteles]
+
+-Animacion del proceso ejecutarla antes del time elapsed, terminar la animacion 2 seg despues al terminar el proceso
+
+-Animacion debe posicionarce al lado derecho del boton "ejecutar correccion" y tener el mismo tamaño del boton de alto con el texto "Procesando..."
+
+-Para el boton corrergir todo indicar la lista de indices que fueron actualizados, indicar el numero de actualizados 18/20 y los 2 indicar que no fueron actualizados indicar [Esquema.tabla y el indice]
+
+

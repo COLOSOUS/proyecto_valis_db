@@ -1,0 +1,5 @@
+Person.AnddressType_hewo AK_AddressType_hewo_Name
+
+Sales.Store_hewo NonClustered   94.74
+
+Person	AddressType_hewo	AK_AddressType_hewo_rowguid	95,3528399311532	581
